@@ -24,7 +24,7 @@ const TeamSection: React.FC<Props> = ({heading, subheading, teamMembers}) => {
                         className="py-10 px-6 bg-gray-800 text-center rounded-xl xl:px-10 xl:text-left">
                         <div className="space-y-6 xl:space-y-10">
                             <img className="mx-auto h-40 w-40 rounded-full xl:w-56 xl:h-56"
-                                 src={`${process.env.NEXT_PUBLIC_STRAPI_URL}${teamMember.profilePicture.formats.medium.url ?? teamMember.profilePicture.formats.thumbnail.url}`}
+                                 src={`${teamMember.profilePicture.formats.thumbnail.url}`}
                                  alt=""/>
                             <div className="space-y-2 xl:flex xl:items-center xl:justify-between">
                                 <div className="font-medium text-lg leading-6 space-y-1">

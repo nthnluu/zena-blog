@@ -12,7 +12,7 @@ const BlogCard: React.FC<Props> = ({post}) => {
         className="flex flex-col rounded-xl shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-150">
         <div className="flex-shrink-0">
             <img className="h-48 w-full object-cover"
-                 src={`${process.env.NEXT_PUBLIC_STRAPI_URL}${post.cover.formats.large.url}`}
+                 src={`${post.cover.formats.large.url}`}
                  alt=""/>
         </div>
         <div className="flex-1 bg-white p-6 flex flex-col justify-between">
@@ -40,7 +40,7 @@ const BlogCard: React.FC<Props> = ({post}) => {
                     <a href="#">
                         <span className="sr-only">{post.author.fullName}</span>
                         <img className="h-10 w-10 rounded-full"
-                             src={`${process.env.NEXT_PUBLIC_STRAPI_URL}${post.author.profilePicture.formats.thumbnail.url}`}
+                             src={`${post.author.profilePicture.formats.thumbnail.url}`}
                              alt=""/>
                     </a>
                 </div>

@@ -5,13 +5,13 @@ interface TeamMember {
     email: string;
     profilePicture: {
         formats: {
-            thumbnail: {
+            thumbnail?: {
                 url: string;
             },
-            large: {
+            large?: {
                 url: string;
             },
-            medium: {
+            medium?: {
                 url: string;
             }
         }

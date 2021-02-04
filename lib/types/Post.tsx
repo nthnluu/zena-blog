@@ -10,10 +10,10 @@ interface Post {
     published_at: Date;
     cover: {
         formats: {
-            large: {
+            large?: {
                 url: string;
             },
-            medium: {
+            medium?: {
                 url: string;
             }
         }
