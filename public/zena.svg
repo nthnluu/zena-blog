@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="510" height="178" viewBox="0 0 510 178">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="510" height="178"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0.712 4)">
+      <text id="zena" transform="translate(149 138)" fill="#2f3e30" font-size="151" font-family="Georgia-Bold, Georgia" font-weight="700"><tspan x="0" y="0">zena</tspan></text>
+      <g id="Group_4" data-name="Group 4" transform="translate(-464 -255.922)">
+        <path id="Path_1" data-name="Path 1" d="M47.39,0h0s-106.415,138.9,0,138.9C154.019,138.9,47.39,0,47.39,0Z" transform="matrix(0.883, 0.469, -0.469, 0.883, 529.411, 257.877)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+        <path id="Path_2" data-name="Path 2" d="M.45,2.339S-6.3,41.359-6.3,78.583-.115,152.3-.115,152.3" transform="matrix(0.883, 0.469, -0.469, 0.883, 570.711, 280.049)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+        <path id="Path_4" data-name="Path 4" d="M-1.08.517-3.026,2.958,15.017,15.641" transform="translate(532.679 302.905) rotate(20)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+        <line id="Line_3" data-name="Line 3" x1="28.144" y2="0.277" transform="translate(541.5 323.1)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+        <line id="Line_2" data-name="Line 2" x2="21" y2="25" transform="translate(505.5 322.377)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+        <path id="Path_3" data-name="Path 3" d="M35.852-7.594-5.1,17.015" transform="translate(539.909 334.672) rotate(31)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+        <g id="Group_3" data-name="Group 3" transform="matrix(0.883, 0.469, -0.469, 0.883, 490.988, 339.084)">
+          <line id="Line_2-2" data-name="Line 2" x2="38.863" y2="15.579" transform="translate(-1.534 4.545)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+          <line id="Line_3-2" data-name="Line 3" x1="48.618" y2="23.586" transform="translate(37.329 -3.462)" fill="none" stroke="#2a8851" stroke-linecap="round" stroke-width="12"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
