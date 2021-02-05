@@ -39,7 +39,7 @@ const StatementSection: React.FC<Props> = ({imageURL, imageCaption, heading, bod
                         <div className="absolute inset-0 bg-gradient-to-t from-green-600 via-green-600 opacity-90"/>
                         <div className="relative px-8">
                             <blockquote className="mt-8">
-                                <div className="relative text-lg font-medium text-white md:flex-grow">
+                                <div className="relative text-xl font-medium text-white md:flex-grow">
                                     <p className="relative">
                                         {imageCaption}
                                     </p>
@@ -56,7 +56,7 @@ const StatementSection: React.FC<Props> = ({imageURL, imageCaption, heading, bod
                         {heading}
                     </h2>
                     <div className="mt-6 text-gray-500 space-y-6">
-                        <p className="text-lg break-all">
+                        <p className="text-lg">
                             {body}
                         </p>
                     </div>
